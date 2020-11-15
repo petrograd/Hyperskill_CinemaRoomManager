@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Cinema_Room_Manager.Problems-Check_sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Cinema_Room_Manager.Problems-Check_sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Cinema_Room_Manager.Problems-Check_sudoku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Cinema_Room_Manager.Problems-Check_sudoku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Cinema_Room_Manager.Problems-Check_sudoku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Cinema_Room_Manager.Problems-Check_sudoku.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Cinema_Room_Manager.Problems-Cinema.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Cinema_Room_Manager.Problems-Cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Cinema_Room_Manager.Problems-Cinema.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Cinema_Room_Manager.Problems-Cinema.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Cinema_Room_Manager.Problems-Cinema.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Cinema_Room_Manager.Problems-Cinema.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Cinema_Room_Manager.Problems-Swap_the_columns.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Cinema_Room_Manager.Problems-Swap_the_columns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Cinema_Room_Manager.Problems-Swap_the_columns.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Cinema_Room_Manager.Problems-Swap_the_columns.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Cinema_Room_Manager.Problems-Swap_the_columns.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Cinema_Room_Manager.Problems-Swap_the_columns.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Cinema_Room_Manager.Problems-Symmetric_matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Cinema_Room_Manager.Problems-Symmetric_matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Cinema_Room_Manager.Problems-Symmetric_matrix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Cinema_Room_Manager.Problems-Symmetric_matrix.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Cinema_Room_Manager.Problems-Symmetric_matrix.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Cinema_Room_Manager.Problems-Symmetric_matrix.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
